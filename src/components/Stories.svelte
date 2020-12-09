@@ -66,9 +66,9 @@
     <div class="Stories-items">
       <div class="Stories-item">
         <div class="Stories-item-box">
-          <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="">
+          <img src="https://i.imgur.com/6pQwxvB.jpg" alt="">
         </div>
-        <h2>sodaman
+        <h2>raysp
           <span>20 horas antes</span>
         </h2>
       </div>
