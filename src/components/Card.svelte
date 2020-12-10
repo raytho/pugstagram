@@ -170,7 +170,7 @@
     </div>
     <div class="Card-photo">
       <figure on:dblclick={handleLike}>
-        <img src={photo} alt={username}>
+        <img src="https://i.imgur.com/hxQAFe4.jpg" alt={username}>
       </figure>
     </div>
     <div class="Card-icons">
