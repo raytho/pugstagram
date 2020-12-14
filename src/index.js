@@ -1,7 +1,7 @@
-import App from './containers/App.svelte';
+import App from "./routes/index.svelte";
 
 const app = new App({
-  target: document.querySelector('main')
+  target: document.querySelector("main"),
 });
 
 export default app;

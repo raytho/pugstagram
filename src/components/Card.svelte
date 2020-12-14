@@ -8,7 +8,6 @@
 
   export let username;
   export let location;
-  export let photo;
   export let postComment;
   export let comments;
   export let avatar;
